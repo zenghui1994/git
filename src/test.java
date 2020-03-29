@@ -3,5 +3,6 @@ public class test {
         System.out.println("111");
         System.out.println("12");
         System.out.println("12");
+        System.out.println("12");
     }
 }
